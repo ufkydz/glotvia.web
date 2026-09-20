@@ -2,7 +2,7 @@ name: Deploy Glotvia Web
 
 on:
   push:
-    branches: ["ana", "main"]
+    branches: ["main", "ana"]
   workflow_dispatch:
 
 permissions:
@@ -16,8 +16,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ub
-    untu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
