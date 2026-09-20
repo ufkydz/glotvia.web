@@ -1,0 +1,19 @@
+{
+  "short_name": "GLOTVİA",
+  "name": "GLOTVİA - Almanca A1 Öğrenme & Goethe Sınav Simülatörü",
+  "description": "Kapsamlı Almanca Öğrenme Platformu, İnteraktif Müfredat, 3D AI Öğretmen ve Sınav Simülasyonu",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 192x192 128x128",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "categories": ["education", "productivity"]
+}

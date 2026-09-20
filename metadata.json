@@ -1,0 +1,8 @@
+{
+  "name": "GLOTVİA",
+  "description": "Kapsamlı Almanca Öğrenme Platformu (A1-B1 Müfredatı, Goethe Sınav Simülatörü, AI Sesli Telaffuz ve Yazışma Pratiği)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
